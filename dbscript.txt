@@ -1,0 +1,4 @@
+1 --> create datbase Tejas
+2 --> connection string == <add name="Test" 
+ connectionString = "Data Source=DESKTOP-1C3A0I8\SQLEXPRESS;Initial Catalog=Tejas;Integrated Security=True"
+provider name = "system.data.sqlClient" 
